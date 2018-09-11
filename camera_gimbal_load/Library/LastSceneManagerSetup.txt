@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OR_Room/OR_Room.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0D41BB06-1A34-F261-856F-4F902E1DB7DC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/CameraBased.cs">
+    <Files>
+      <File FileName="Assets/Code/NewSmoothMode.cs" Line="99" Column="10" />
+      <File FileName="Assets/Code/SmoothMode.cs" Line="52" Column="71" />
+      <File FileName="Assets/Code/CameraBased.cs" Line="127" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

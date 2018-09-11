@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camera_gimbal_load", "Assembly-CSharp.csproj", "{0D41BB06-1A34-F261-856F-4F902E1DB7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camera_gimbal_load", "Assembly-CSharp-Editor.csproj", "{9313AAB4-8657-6851-4879-39367F300FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D41BB06-1A34-F261-856F-4F902E1DB7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D41BB06-1A34-F261-856F-4F902E1DB7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D41BB06-1A34-F261-856F-4F902E1DB7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D41BB06-1A34-F261-856F-4F902E1DB7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9313AAB4-8657-6851-4879-39367F300FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9313AAB4-8657-6851-4879-39367F300FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9313AAB4-8657-6851-4879-39367F300FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9313AAB4-8657-6851-4879-39367F300FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
